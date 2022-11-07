@@ -1,0 +1,177 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[20:24:41] password = ""  (string)
+[20:24:41] messageholelimit = 3000  (int)
+[20:24:41] 
+[20:24:41] Server Plugins
+[20:24:41] --------------
+[20:24:41]  Loading plugin: streamer
+[20:24:41] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[20:24:41]   Loaded.
+[20:24:41]  Loading plugin: mysql
+[20:24:42]  >> plugin.mysql: R34 successfully loaded.
+[20:24:42]   Loaded.
+[20:24:42]  Loading plugin: dns
+[20:24:42] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[20:24:42]   Loaded.
+[20:24:42]  Loaded 3 plugins.
+
+[20:24:42] 
+[20:24:42] Ban list
+[20:24:42] --------
+[20:24:42]  Loaded: samp.ban
+[20:24:42] 
+[20:24:42] 
+[20:24:42] Filterscripts
+[20:24:42] ---------------
+[20:24:42]   Loading filterscript 'antiproxy.amx'...
+[20:24:42]   Loading filterscript 'Mapeados.amx'...
+[20:24:42]   Loaded 2 filterscripts.
+
+[20:24:42] [MYSQL]: Conectando a la base de datos 'nexusrp'...
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] [MYSQL]: >>ERROR<< No se pudo conectar a 'nexusrp'
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] ERROR
+[20:24:42] Coches cargados: 0
+[20:24:42] Casas cargadas: 0 (MAX: 1000)
+[20:24:42] Negocios cargados: 0 (MAX: 200)
+[20:24:42] Turfs cargados: 0 (MAX: 80)
+[20:24:42] Facciones cargadas: 0 (MAX: 30)
+[20:24:42] Plantaciones cargadas: 0 CodigoPlantacion: 1
+[20:24:42]  
+[20:24:42] Nexus RP - Hecho por Braun
+[20:24:42]  
+[20:24:42] Number of vehicle models: 33
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[20:28:16] password = ""  (string)
+[20:28:16] messageholelimit = 3000  (int)
+[20:28:16] 
+[20:28:16] Server Plugins
+[20:28:16] --------------
+[20:28:16]  Loading plugin: streamer
+[20:28:16] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[20:28:16]   Loaded.
+[20:28:16]  Loading plugin: mysql
+[20:28:16]  >> plugin.mysql: R34 successfully loaded.
+[20:28:16]   Loaded.
+[20:28:16]  Loading plugin: dns
+[20:28:16] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[20:28:16]   Loaded.
+[20:28:16]  Loaded 3 plugins.
+
+[20:28:16] 
+[20:28:16] Ban list
+[20:28:16] --------
+[20:28:16]  Loaded: samp.ban
+[20:28:16] 
+[20:28:16] 
+[20:28:16] Filterscripts
+[20:28:16] ---------------
+[20:28:16]   Loading filterscript 'antiproxy.amx'...
+[20:28:16]   Loading filterscript 'Mapeados.amx'...
+[20:28:16]   Loaded 2 filterscripts.
+
+[20:28:16] [MYSQL]: Conectando a la base de datos 'nexusrp'...
+[20:28:16] [MYSQL]: Conectado satisfactoriamente a 'nexusrp'
+[20:28:16] Coches cargados: 1
+[20:28:25] Casas cargadas: 638 (MAX: 1000)
+[20:28:26] Negocios cargados: 83 (MAX: 200)
+[20:28:27] Turfs cargados: 78 (MAX: 80)
+[20:28:27] Facciones cargadas: 4 (MAX: 30)
+[20:28:27] Plantaciones cargadas: 0 CodigoPlantacion: 1
+[20:28:27]  
+[20:28:27] Nexus RP - Hecho por Braun
+[20:28:27]  
+[20:28:27] Number of vehicle models: 33
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[20:29:08] password = ""  (string)
+[20:29:08] messageholelimit = 3000  (int)
+[20:29:08] 
+[20:29:08] Server Plugins
+[20:29:08] --------------
+[20:29:08]  Loading plugin: streamer
+[20:29:08] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[20:29:08]   Loaded.
+[20:29:08]  Loading plugin: mysql
+[20:29:08]  >> plugin.mysql: R34 successfully loaded.
+[20:29:08]   Loaded.
+[20:29:08]  Loading plugin: dns
+[20:29:08] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[20:29:08]   Loaded.
+[20:29:08]  Loaded 3 plugins.
+
+[20:29:08] 
+[20:29:08] Ban list
+[20:29:08] --------
+[20:29:08]  Loaded: samp.ban
+[20:29:08] 
+[20:29:08] 
+[20:29:08] Filterscripts
+[20:29:08] ---------------
+[20:29:08]   Loading filterscript 'antiproxy.amx'...
+[20:29:08]   Loading filterscript 'Mapeados.amx'...
+[20:29:08]   Loaded 2 filterscripts.
+
+[20:29:08] [MYSQL]: Conectando a la base de datos 'nexusrp'...
+[20:29:08] [MYSQL]: Conectado satisfactoriamente a 'nexusrp'
+[20:29:08] Coches cargados: 1
+[20:29:17] Casas cargadas: 638 (MAX: 1000)
+[20:29:19] Negocios cargados: 83 (MAX: 200)
+[20:29:19] Turfs cargados: 78 (MAX: 80)
+[20:29:19] Facciones cargadas: 4 (MAX: 30)
+[20:29:19] Plantaciones cargadas: 0 CodigoPlantacion: 1
+[20:29:19]  
+[20:29:19] Nexus RP - Hecho por Braun
+[20:29:19]  
+[20:29:19] Number of vehicle models: 33
