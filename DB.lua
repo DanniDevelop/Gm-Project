@@ -1,4 +1,4 @@
-repeat task.wait() until game:IsLoaded() task.wait(getgenv().LoadTime or 15)
+repeat task.wait() until game:IsLoaded() task.wait(getgenv().LoadTime or 4)
 local LocalPlayer = game.Players.LocalPlayer
 local Character = LocalPlayer.Character
 
@@ -61,7 +61,7 @@ local function ServerHop()
 			end
 			JobIds[ID] = tick()
 			writefile("dbr-shop.json", game:GetService("HttpService"):JSONEncode(JobIds))
-			repeat game:GetService("TeleportService"):TeleportToPlaceInstance(game.placeId, ID) task.wait(7) until nil
+			repeat game:GetService("TeleportService"):TeleportToPlaceInstance(game.placeId, ID) task.wait() until nil
 		end
 	end
 end
