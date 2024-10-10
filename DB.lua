@@ -1,4 +1,4 @@
-repeat task.wait() until game:IsLoaded() task.wait(getgenv().LoadTime or 6)
+repeat task.wait() until game:IsLoaded() task.wait(getgenv().LoadTime or 10)
 local LocalPlayer = game.Players.LocalPlayer
 local Character = LocalPlayer.Character
 
@@ -19,9 +19,9 @@ end
 for i,v in workspace.Map:GetChildren() do
     if v:FindFirstChild("Main") then
         Character.HumanoidRootPart.CFrame = CFrame.new(v.Main.Position)
-        task.wait(.10)
+        task.wait(.5)
         fireproximityprompt(v.Main.Attachment.ProximityPrompt)
-        task.wait(.10)
+        task.wait(.5)
     end
 end
 
