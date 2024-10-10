@@ -21,7 +21,7 @@ for i,v in workspace.Map:GetChildren() do
         Character.HumanoidRootPart.CFrame = CFrame.new(v.Main.Position)
         task.wait(.10)
         fireproximityprompt(v.Main.Attachment.ProximityPrompt)
-        task.wait(.:10)
+        task.wait(.10)
     end
 end
 
