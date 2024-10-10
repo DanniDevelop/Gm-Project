@@ -61,7 +61,7 @@ local function ServerHop()
 			end
 			JobIds[ID] = tick()
 			writefile("dbr-shop.json", game:GetService("HttpService"):JSONEncode(JobIds))
-			repeat game:GetService("TeleportService"):TeleportToPlaceInstance(game.placeId, ID) task.wait(.7) until nil
+			repeat game:GetService("TeleportService"):TeleportToPlaceInstance(game.placeId, ID) task.wait(7) until nil
 		end
 	end
 end
